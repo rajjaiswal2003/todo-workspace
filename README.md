@@ -29,3 +29,9 @@ This command-line tool allows you to manage your to-do list efficiently. You can
 
    ```bash
    git clone https://github.com/yourusername/todo-list-manager.git
+
+2.Navigate to the project directory:
+   ```bash
+   cd todo-list-manager
+
+   
