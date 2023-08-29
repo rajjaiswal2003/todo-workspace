@@ -2,15 +2,6 @@
 
 A simple command-line application to manage your tasks with descriptions and due dates.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
