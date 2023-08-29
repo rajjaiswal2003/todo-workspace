@@ -23,12 +23,7 @@ This command-line tool allows you to manage your to-do list efficiently. You can
 - Mark tasks as completed and remove them from the list.
 - Edit task descriptions and due dates.
 
-## Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/todo-list-manager.git
+## Commands for doing operation in To-do Application
 
 
 | Task                  | Parameters to Pass                     | Command                                                |
