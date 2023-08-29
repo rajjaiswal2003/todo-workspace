@@ -31,14 +31,11 @@ This command-line tool allows you to manage your to-do list efficiently. You can
    git clone https://github.com/yourusername/todo-list-manager.git
 
 
-2.Navigate to the project directory:
-
-   ```bash
-   cd todo-list-manager
-
-3.Install the required dependencies using pip:
-
-   ```bash
-   pip install -r requirements.txt
+| Task                  | Parameters to Pass                     | Command                                                |
+|-----------------------|----------------------------------------|--------------------------------------------------------|
+| Creating a Task       | Description and Due Date               | `python main.py add --desc Description --date DueDate` |
+| Showing List of Tasks | No Parameters                         | `python main.py show`                                 |
+| Edit a Task           | Task ID, Task Description, Task Due Date | `python main.py edit --taskid TaskId --taskdesc TaskDescription --taskdate TaskDueDate` |
+| Complete/Remove Task  | Task ID                                | `python main.py complete --taskid TaskID`              |
 
    
