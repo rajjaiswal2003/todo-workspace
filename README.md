@@ -24,4 +24,17 @@ This command-line tool allows you to manage your to-do list efficiently. You can
 | Edit a Task           | Task ID, Task Description, Task Due Date | `python main.py edit --taskid TaskId --taskdesc TaskDescription --taskdate TaskDueDate` |
 | Complete/Remove Task  | Task ID                                | `python main.py complete --taskid TaskID`              |
 
+
+6. Add a section for Testing and Code Quality:
+
+```markdown
+
+##Testing and Code Quality
+
+This ToDo List Manager has been thoroughly tested to ensure its functionality. The following steps were taken to improve code quality:
+
+- Unit testing: We've written unit tests for each functionality to ensure they work as expected.
+- Code linting: We've used a linter to maintain code consistency and adherence to coding standards.
+- Code formatting: We've applied a code formatter to make the code more readable and maintainable.
+
    
