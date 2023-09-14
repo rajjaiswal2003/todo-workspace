@@ -39,5 +39,9 @@ This ToDo List Manager has been thoroughly tested to ensure its functionality. T
 pip install -r requirements.txt
 The requirements.txt file contains a list of all the dependencies needed to run the application.
 
+## Continuous Integration with GitHub Actions
+This project includes a GitHub Action workflow that automates the build and testing process. With this workflow, your code is tested for correctness and functionality every time a commit is pushed to the main branch.
+
+
 
    
