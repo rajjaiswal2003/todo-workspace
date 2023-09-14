@@ -16,12 +16,12 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Replace with your desired Python version
+        python-version: '3.0'  # Replace with your desired Python version
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt  # Install your project's dependencies
+        pip install -r requirements.txt  
 
     - name: Run tests
       run: python o_testing.py  # Replace with the correct testing command
